@@ -9,6 +9,9 @@ __pycache__/
 # Ignore .DS_Store
 .DS_Store
 
+# Ignore config file
+/config_movies.py
+
 # Distribution / packaging
 .Python
 build/
